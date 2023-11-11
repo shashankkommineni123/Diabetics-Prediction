@@ -1,1 +1,5 @@
-# Diabetics-Prediction
+# Al-based-diabetes-prediction-system-![IMG-20231101-WA0001](https://github.com/Muthulakshmi12345/Al-based-diabetes-prediction-system-/assets/147051884/e7e4d8d5-fc96-4cda-acea-d6a06b3b340f)
+In this project, our objective is to predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask
+# screenshot Enter the dataset value and predict the diabetes ![Screen shot4](https://github.com/Muthulakshmi12345/Al-based-diabetes-prediction-system-/assets/147051884/b97cd560-e4d5-45ae-a9de-aa7db8e7f0ab)
+# screenshot 2 result![Screen shot 2](https://github.com/Muthulakshmi12345/Al-based-diabetes-prediction-system-/assets/147051884/e4a4ae5e-8fe3-474d-abb2-64a2f6cbe2c0)![Screenshot3](https://github.com/Muthulakshmi12345/Al-based-diabetes-prediction-system-/assets/147051884/b8996372-ac97-4220-ad65-8dc23e43fcc5)
+
